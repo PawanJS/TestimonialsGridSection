@@ -1,5 +1,30 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
 .container {
   font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  line-height: 1.6;
+  font-size: 1.6rem;
+  /* color: hsl(0, 0%, 100%); */
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+.testimonial-container {
+  max-width: 114rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 3rem;
 }
 
 .attribution {
