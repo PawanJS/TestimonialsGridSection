@@ -7,5 +7,5 @@
 ### Benefits of doing this challenge
 
 1. Helps in improving skills in HTML and CSS.
-2. You become familiar with how small components.
+2. You become familiar with how small components are made.
 3. This can be used in future projects as well.
